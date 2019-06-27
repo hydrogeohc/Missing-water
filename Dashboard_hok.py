@@ -35,10 +35,6 @@ city_data = {
 
 
 
-#trace1 = go.Bar(x=df["cust_type"], y=df['Number_of_meter'],name='Meter quantity by cust_type in Clayton county')
-#trace2 = go.Scatter(x=df2["cust_type"], y=df2['Number_of_meter'],name='Meter quantity by cust_type in newport beach')
-#trace3 = go.Bar(x=df3["cust_type"], y=df3['number_meter'],name='Meter quantity by cust_type in sgv')
-#trace4 = go.Bar(x=df4["cust_type"], y=df4['number_meter'],name='Meter quantity by cust_type in New york city')
 
 # Boostrap CSS.
 app.css.append_css({'external_url': 'https://codepen.io/amyoshino/pen/jzXypZ.css'}) 
